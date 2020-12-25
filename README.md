@@ -1,4 +1,4 @@
-# Image-Repository
+# Collage - Repository
 Shopify Challenge 
 
 There has been a recent trend of pictures collages as wall decorations, where the various pictures in each collage would correpsond to one colour. Here is an example of some of these collages:
